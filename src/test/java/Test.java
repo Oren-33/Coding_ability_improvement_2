@@ -8,6 +8,6 @@ public class Test {
     @org.junit.Test
     public void test(){
         System.out.println("Hellow.World");
-
+        System.out.println("Hellow,myfriend");
     }
 }
